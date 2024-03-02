@@ -1,8 +1,10 @@
 ## 開発環境構築
+```
 docker-compose up -d
 docker-compose exec app bash
  npm i
  npm run dev
+```
 
 http://localhost:3000 にアクセスできたらOk
 
